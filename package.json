@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "k-logger",
   "version": "0.0.1",
   "description": "readable logging for derby applications",
   "main": "index.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/derbyjs/logger.git"
+    "url": "https://github.com/kantele/k-logger.git"
   },
   "author": "rkstedman",
   "bugs": {
-    "url": "https://github.com/derbyjs/logger/issues"
+    "url": "https://github.com/kantele/k-logger/issues"
   },
-  "homepage": "https://github.com/derbyjs/logger"
+  "homepage": "https://github.com/kantele/k-logger"
 }
