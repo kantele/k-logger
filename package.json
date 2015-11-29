@@ -1,6 +1,6 @@
 {
   "name": "k-logger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "readable logging for derby applications",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/kantele/k-logger/issues"
   },
-  "homepage": "https://github.com/kantele/k-logger"
+  "homepage": "https://github.com/kantele/k-logger",
   "dependencies": {
     "ansi-color": "^0.2.1"
   }
